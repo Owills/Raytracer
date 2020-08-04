@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Phong
+comment1.params=diff\ spec\ exp
+comment1.target=Phong(Color,\ Color,\ double)
+comment2.params=i\ viewingRay\ li
+comment2.target=Color\ computeLighting(Intersection,\ Ray,\ Light)
+numComments=3

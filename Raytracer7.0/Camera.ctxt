@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Camera
+comment1.params=pos\ forV\ upV\ fov\ ar
+comment1.target=Camera(Point,\ Vector,\ Vector,\ double,\ double)
+comment2.params=u\ v
+comment2.target=Point\ imagePlanePoint(double,\ double)
+comment3.params=u\ v
+comment3.target=Ray\ generateRay(double,\ double)
+numComments=4

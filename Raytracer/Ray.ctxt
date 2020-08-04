@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ray
+comment1.params=p\ v\ t
+comment1.target=Ray(Point,\ Vector,\ double)
+comment2.params=dist
+comment2.target=Point\ evaluate(double)
+comment3.params=
+comment3.target=Point\ getPosition()
+comment4.params=
+comment4.target=Vector\ getDirection()
+comment5.params=
+comment5.target=double\ getTime()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Material
+comment1.params=i\ viewingRay\ li
+comment1.target=Color\ computeLighting(Intersection,\ Ray,\ Light)
+comment2.params=
+comment2.target=double\ getReflectiveness()
+numComments=3

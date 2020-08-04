@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\n\ Represents\ a\ triangle\ in\ 3D\ space.\n\ \n\ @author\ Ben\ Farrar\n\ @version\ 2019.05.22\n
+comment1.params=p0\ p1\ p2\ m
+comment1.target=Triangle(Point,\ Point,\ Point,\ Material)
+comment2.params=ray
+comment2.target=Intersection\ intersect(Ray)
+numComments=3

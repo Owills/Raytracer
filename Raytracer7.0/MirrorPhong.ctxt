@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MirrorPhong
+comment1.params=diff\ spec\ exp\ refPwr
+comment1.target=MirrorPhong(Color,\ Color,\ double,\ double)
+comment2.params=
+comment2.target=double\ getReflectiveness()
+numComments=3

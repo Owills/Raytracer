@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SceneCreator
+comment0.text=\n\ Details\ the\ static\ methods\ to\ creating\ various\ scenes\ for\ use\ in\ the\ raytracer.\n\ scene1()\ is\ included\ as\ an\ example.\ You\ can\ add\ more\ static\ methods\ (for\ example\ scene2(),\n\ scene3(),\ etc.)\ to\ create\ different\ scenes\ without\ affecting\ scene1.\n\n\ @author\ Ben\ Farrar\n\ @version\ 2019.05.22\n
+comment1.params=xResolution\ yResolution
+comment1.target=Scene\ scene1(double,\ double)
+comment2.params=xResolution\ yResolution
+comment2.target=Scene\ scene2(double,\ double)
+numComments=3

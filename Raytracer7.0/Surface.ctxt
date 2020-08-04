@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Surface
+comment1.params=ray
+comment1.target=Intersection\ intersect(Ray)
+numComments=2

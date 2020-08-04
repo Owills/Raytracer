@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Scene
+comment1.params=newCam
+comment1.target=Scene(Camera)
+comment2.params=p\ li
+comment2.target=boolean\ isShadowed(Point,\ Light)
+comment3.params=r\ bouncesLeft
+comment3.target=Color\ computeVisibleColor(Ray,\ int)
+comment4.params=li
+comment4.target=void\ addLight(Light)
+comment5.params=newCam
+comment5.target=void\ setCamera(Camera)
+comment6.params=s
+comment6.target=void\ addSurface(Surface)
+comment7.params=xRes\ yRes\ numSamples
+comment7.target=ColorImage\ render(int,\ int,\ int)
+numComments=8
